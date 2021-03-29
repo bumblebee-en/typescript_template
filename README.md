@@ -1,6 +1,6 @@
-# jest_axios
+# typescript_template
 
-small jest sample for axios
+typescript project template for bumblebee team
 
 ## Usage
 
